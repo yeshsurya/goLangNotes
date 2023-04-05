@@ -6,7 +6,9 @@ Short notes of golang
 <li>
 Multiple *.go files can be grouped under a notion of “package name” </li>
 </br>
+<li>
 Two types of packages are 1. Reusable 2. Executable
+</li>
 word “main” is used to make executable type package
 for executable type package you’ll need to have a function with name “main”
 “fmt” - shortened form of format
